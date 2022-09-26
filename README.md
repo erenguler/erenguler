@@ -2,7 +2,6 @@
 
 ![CSharp](https://img.shields.io/badge/-CSharp-6b1678?style=flat-square&logo=csharp)
 ![MSSQL](https://img.shields.io/badge/-MSSQL-black?style=flat-square&logo=microsoft-sql-server)
-![MySQL](https://img.shields.io/badge/-MySQL-yellow?style=flat-square&logo=mysql)
 ![DotNet](https://img.shields.io/badge/-.Net-6b1678?style=flat-square&logo=dotnet)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
